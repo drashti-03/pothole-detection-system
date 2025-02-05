@@ -16,7 +16,7 @@ A machine learning-based system designed to detect potholes on roads using advan
 <img width="959" alt="Result" src="https://github.com/user-attachments/assets/01bd8dd7-849e-465e-8707-8787b0178527" />(https://github.com/drashti-03/pothole-detection-system/blob/main/Result.png)
 
 ## Result Video
-[road_damage_assessment (2).mp4](https://github.com/drashti-03/pothole-detection-system/blob/main/road_damage_assessment%20(2).mp4)  
+[road_damage_assessment (2).mp4](https://github.com/drashti-03/pothole-detection-system/releases/tag/pothole-detection)  
 
 
 ## Introduction  
