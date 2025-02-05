@@ -8,9 +8,6 @@ A machine learning-based system designed to detect potholes on roads using advan
 - [Features](#features)  
 - [Dataset](#dataset)  
 - [Model Architecture](#model-architecture)  
-- [Installation](#installation)   
-- [Demo Video](#demo-video)
-
 
 ## Result Image
 <img width="959" alt="Result" src="https://github.com/user-attachments/assets/01bd8dd7-849e-465e-8707-8787b0178527" />
